@@ -2,3 +2,5 @@ Snipy
 Casper
 Charlie
 Gowri
+Daisy
+Blacky
